@@ -102,7 +102,6 @@ Reports can be further visualized using Excel PivotTables and charts if desired.
 - A scalable, normalized database schema capturing key university academic processes.
 - Comprehensive test coverage ensuring data quality and schema integrity.
 - Actionable operational reports supporting admissions, enrollment, and faculty management decisions.
-  
 Refer to the project_report.pdf for detailed results.
 ---
 ## License
